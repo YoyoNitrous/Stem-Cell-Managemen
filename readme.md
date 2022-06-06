@@ -1,16 +1,13 @@
+## Stem Cell Management
+
 Stem  cells  are  cells  taken  from  embryos  or  adult  body  tissues  which  have  the 
 properties to differentiate  into  specialized  cells.  Stems  cell  transplants  have  been used  
 to  cure  many  chronic  diseases  like  cancer,  immune  disorders,  metabolic disorders and has 
 become a very promising area which saves many dying lives.
 
-Understanding the complexity in millions of stem cell transplant and donor data, it can be 
-simplified by implementing database management. The need of the hour is to facilitate this entire 
-procedure in a slick manner. This project aims to develop a software that covers all the aspects of 
-management and operations related to stem
-cells.
-
-Stem   Cell   Management   (SCM)   database   system   provides   the   benefits   of streamlined  
-operations, enhanced control of transplant details, secured method of data  access,  improved 
+Stem   Cell   Management   (SCM)   database   system   provides   the   benefits   of : 
+                       * streamlined operations
+enhanced control of transplant details, secured method of data  access,  improved 
 search  for  available  stem  cells  for  new  transplants  and easy   search   of   centers   for  
  users   interested  in  donation.  The  proposed  SCM system  is  flexible,  powerful,  easy  to  
 use  and  is  developed  to  deliver  immensive benefits to hospitals, patients and public users. 
